@@ -1,0 +1,9 @@
+body{
+    margin:0;    
+}
+.attribution { 
+    margin:0; font-size: medium; text-align: center;position: relative;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+}
